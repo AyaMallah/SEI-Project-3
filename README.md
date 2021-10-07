@@ -23,7 +23,7 @@ For my third project at the General Assembly bootcamp, I built a Full-Stack MERN
 <a href="https://tails-n-whiskers.herokuapp.com/">Tails & Whiskers</a>
  
 ## Timeframe
-1 week
+7 days
 
 ## Technologies
 **Planning:**
