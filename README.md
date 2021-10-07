@@ -5,7 +5,12 @@
 ## Overview
 For my third project at the General Assembly bootcamp, I built a Full-Stack MERN App using an Express API to serve data from a Mongo database, and React to display the client side. As a group, we built a cat and dog e-commerce website inspired by the Butternut Box site. Customers are able to browse the products and would need to be authenticated in order to purchase anything.
 
-
+<div align="center">
+ <img src="https://res.cloudinary.com/dhrxw6zhp/image/upload/v1633643158/Screenshot_2021-09-30_at_16.38.15_tyymaz.png" width="750px" height="500px"/>
+ <img src="https://res.cloudinary.com/dhrxw6zhp/image/upload/v1633643182/Screenshot_2021-09-30_at_16.39.09_jsmsiy.png" width="750px" height="500px"/>
+ <img src="https://res.cloudinary.com/dhrxw6zhp/image/upload/v1633643217/Screenshot_2021-09-30_at_16.39.39_ec5yya.png" width="750px" height="500px"/>
+ <img src="https://res.cloudinary.com/dhrxw6zhp/image/upload/v1633643216/Screenshot_2021-09-30_at_16.40.43_olx76a.png" width="750px" height="500px"/>
+ </div>
 
 ## Brief
 * **Build a full-stack application** by making your own backend and your own frontend.
@@ -63,6 +68,12 @@ For my third project at the General Assembly bootcamp, I built a Full-Stack MERN
 We started by brainstorming ideas for an app that would be built using express, node and React. We each put our ideas forward and agreed on creating an e-commerce app. I suggested doing Cat & Dog products in memory of my cat that passed away that week. We all voted and came to an agreement of what we wanted. We used the Trello Board to plan and keep on track of our work daily and help daily stand ups.
 We used Miro to plan our user journey with a flowchart and structured our various models for our back-end. Using Figma we sketched the wireframe of our project and tried out some colour pallets.
 
+<div align="center">
+ <img src="https://res.cloudinary.com/dhrxw6zhp/image/upload/v1633643508/Screenshot_2021-09-29_at_17.38.56_akaf8l.png" width="700px" />
+ <img src="https://res.cloudinary.com/dhrxw6zhp/image/upload/v1633643437/Screenshot_2021-09-29_at_17.37.07_gfxqzw.png" width="700px"/>
+ <img src="https://res.cloudinary.com/dhrxw6zhp/image/upload/v1633643431/Screenshot_2021-09-29_at_17.36.31_xavssb.png" width="700px" />
+ <img src="https://res.cloudinary.com/dhrxw6zhp/image/upload/v1633643511/Screenshot_2021-09-29_at_17.39.20_tvj2gu.png" width="700px" />
+ </div>
 
 ## Approach
 
@@ -73,12 +84,24 @@ Front-End:
 After completing the back-end, we started on the front-end by creating our React app, and connected our back-end to it with the command ****npx create_react_app client —template cra-template-ga-ldn-projects****.  We decided to split up and work on different features, the features I worked on are as follows:
 * Navbar/Footer
 
+<div>
+ <img src="https://res.cloudinary.com/dhrxw6zhp/image/upload/v1633643824/Screenshot_2021-09-30_at_16.47.23_u7qizu.png" width="450px"/>
+</div>
 
 * Homepage
 * About Page
 * Overview Page
 * Cat Products Page
+
+<div>
+ <img src="https://res.cloudinary.com/dhrxw6zhp/image/upload/v1633643819/Screenshot_2021-09-30_at_16.46.50_xbwwfg.png" width="550px"/>
+</div>
+
 * Basket modal
+
+<div>
+ <img src="https://res.cloudinary.com/dhrxw6zhp/image/upload/v1633643830/Screenshot_2021-09-30_at_16.51.21_matc9e.png" width="550px"/>
+</div>
 
 
 ## Wins 
