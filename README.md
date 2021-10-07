@@ -34,9 +34,9 @@ For my third project at the General Assembly bootcamp, I built a Full-Stack MERN
 * Miro
 
 **Frontend:**
-* React.js,
+* React.js
 * JavaScript
-* SASS,
+* SASS
 * CSS
 * HTML
 * Bootstrap
@@ -47,8 +47,8 @@ For my third project at the General Assembly bootcamp, I built a Full-Stack MERN
 * MongoDB
 * Mongoose
 * Express
-* React Router DOM,
-* JSONWebToken.
+* React Router DOM
+* JSONWebToken
 * Insomnia
 * Git (branching) & GitHub
 
