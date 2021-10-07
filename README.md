@@ -1,7 +1,5 @@
 # SEI Project 3: Tails & Whiskers
 
-##  SEI Project 3: Tails & Whiskers
-
 ## Overview
 For my third project at the General Assembly bootcamp, I built a Full-Stack MERN App using an Express API to serve data from a Mongo database, and React to display the client side. As a group, we built a cat and dog e-commerce website inspired by the Butternut Box site. Customers are able to browse the products and would need to be authenticated in order to purchase anything.
 
